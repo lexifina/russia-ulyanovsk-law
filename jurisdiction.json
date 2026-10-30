@@ -1,0 +1,11 @@
+{
+  "path": "ru-uly",
+  "code": "RU-ULY",
+  "name": "Ulyanovsk Oblast",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-ulyanovsk-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
